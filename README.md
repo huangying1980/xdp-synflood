@@ -1,4 +1,6 @@
 huangying, email: hy_gzr@163.com <br>
+### 本项目用于交流和学习，请勿用于非正当途径
+
 基于xdp_packet开发的高性能TCP协议的syn报文发送工具<br>
 ### 获取:
 git clone https://github.com/huangying80/xdp-synflood.git
